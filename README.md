@@ -4,6 +4,8 @@ It's day 4 of the commit games... 25 people have been eliminated since yesterday
 65 have been eliminated since the beginning of this competition.
 It's curious how the situation has evolved thus far...
 
+End of day 4 commit... Just in case, you never know
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
