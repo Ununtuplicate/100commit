@@ -9,6 +9,8 @@ End of day 4 commit... Just in case, you never know
 Start of day 5 commit
 End of day 5 commit
 
+Start of day 6 commit
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
