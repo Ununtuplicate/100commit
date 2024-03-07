@@ -13,6 +13,7 @@ Start of day 6 commit
 End of day 6 commit
 
 Start of day 7 commit
+End of day 7 commit
 
 This template should help get you started developing with Vue 3 in Vite.
 
