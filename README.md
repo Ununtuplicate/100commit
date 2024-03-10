@@ -21,6 +21,8 @@ I fell asleep beore making my end of day 8 commit :/
 Start of day 9 commit
 End of day 9 commit
 
+Start of day 10 commit
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
