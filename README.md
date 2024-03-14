@@ -28,10 +28,12 @@ Start of day 11 commit
 End of day 11 commit
 
 Start of day 12 commit
-I forgot abotu end of day 12
+I forgot about end of day 12
 
 Start of day 13 commit
 End of day 13 commit
+
+Start of day 14 commit
 
 This template should help get you started developing with Vue 3 in Vite.
 
