@@ -37,6 +37,9 @@ Start of day 14 commit
 End of day 14 commit
 
 Start of day 15 commit
+End of day 15 was really nice :)
+
+Start of day 16 commit
 
 This template should help get you started developing with Vue 3 in Vite.
 
